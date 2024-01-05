@@ -5,8 +5,8 @@ import HelloClass from './Components/HelloClass';
 function App() {
   return (
     <div className="App">
-      <Hello/>
-      <HelloClass/>
+      <Hello name='Mahendra'/>
+      <HelloClass name='Mahendra'/>
     </div>
   );
 }
